@@ -2,8 +2,8 @@
 
 A full-stack CRM where anyone can submit a public inquiry and an admin can log in to view, filter, search and manage inquiries.
 
-**Live demo:** <https://your-app.vercel.app>
-**API health check:** <https://your-api.onrender.com/api/health>
+**Live demo:** https://edtech-crm-amber.vercel.app
+**API health check:** https://edtech-crm-mxp9.onrender.com/api/health
 **Demo admin:** `admin@example.com` / `Admin@12345`
 
 > The backend runs on Render's free tier and sleeps when idle. The first request may take up to ~50 seconds.
